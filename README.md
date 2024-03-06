@@ -63,3 +63,7 @@ The script follows these primary steps:
 ### Contributing
 
 We welcome contributions to this project! Feel free to create a pull request with your improvements or bug fixes.
+
+
+![License Plate](https://github.com/Humayun-glitch/license-plate-detection/assets/57752996/9aca2d18-8ae4-43c9-89f8-66e17e8c80c2)
+
